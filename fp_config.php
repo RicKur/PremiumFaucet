@@ -3,9 +3,9 @@ error_reporting(0);
 $config = array(
 	Coin		=>	"DOGE",	//Coin you Want Use Dice, Example BTC, DASH, LTC, DOGE, ETH, DGB, BCH
 	
-	Cookie		=>	"__cfduid=d2917c701967f1a6c7c7ee41763c1f2e31588062258; _ga=GA1.2.438094256.1588062260; session_token=542605d2667a3eacce2cfec9289a78a551927185d6c19a2ba3a7506f8ef09ec8; _gid=GA1.2.445500414.1588220048; faucetpay=990c59dmrpei6305gf2k7830pc; remember_me=215731%3A4b7a1e104cf76a294e830aa0048be8d24ef5d240b2d9f473c7671fe63f841e22%3Adf39294d507f184577214d259e63f663fac64957780bdba71d492ac3afa4bfc8; cookieconsent_status=dismiss; sc_is_visitor_unique=rx12149426.1588307055.335AAEE6BA114F1E67494F760D40F1E3.5.4.4.4.4.4.2.1.1",	//Your Cookie For Login Script
+	Cookie		=>	"__cfduid=d2917c701967f1a6c7c7ee41763c1f2e31588062258; _ga=GA1.2.438094256.1588062260; session_token=1321e9077e7dd33dd13efa6e97dc69396acf4711b363944bcb90f221b82398fb; _gid=GA1.2.445500414.1588220048; cookieconsent_status=dismiss; cf_clearance=cd546c1cc845c24c7601ac3ddcb03f3f1060d810-1588345278-0-150; faucetpay=1lnj3q2nvvu8l3mtfs0v1krpk8; remember_me=215731%3A18dfc2b61ec5d70dc71a63abc48375eaca178def9eab2ab4cfcda4a7cd6ab056%3Ad97c6144a44fe032bfcdc101e47f568868f1aab1d3db736275a2235a417a3cfb; sc_is_visitor_unique=rx12149426.1588345339.335AAEE6BA114F1E67494F760D40F1E3.10.9.7.5.5.5.3.2.2",	//Your Cookie For Login Script
 	Name		=>	"FaucetPay Dice, by: RBS Terra",
-	Base_Bet	=>	"0.001",	//Base Bet For Frist Roll, Example 0.00000001
+	Base_Bet	=>	"0.01",	//Base Bet For Frist Roll, Example 0.00000001
 	
 	//Your Win Chance Want use ,Example Min 1 and Max 94
 	Min_winChance	=>	"20", //Win Chance Minimum 1

@@ -16,11 +16,11 @@ $config = array(
 	if_win		=>	"25", //Change Bet if Win, Example 20 for 0.2x Bet if Win
 	
 	//Choise 1 for HI ,2 for Low, 3 for Random
-	Bet_on		=>	"1", //Only Write 1, 2, or 3
+	Bet_on		=>	"3", //Only Write 1, 2, or 3
 	
 	//Refresh to Base Bet if Profit
 	Refresh		=>	"0.001", //Refresh if Profit, Example 0.001
-	Stop_Profit =>	"25", //Stop If Profit to Target, Example 100.00
+	Stop_Profit =>	"1", //Stop If Profit to Target, Example 100.00
 	
 	//Reset Next if Win 
 	Roll_win	=>	"4"	//If Win Bet Change for How Much Roll, Example 1, 2, 3, 4, 5, etc.
